@@ -1,0 +1,6 @@
+{
+  "name": "HopeBridge Foundation",
+  "description": "Empowering underprivileged communities through education, healthcare, environmental protection, food support, and women empowerment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
